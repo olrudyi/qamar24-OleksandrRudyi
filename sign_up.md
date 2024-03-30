@@ -1,0 +1,1 @@
+1. Registration new user allows with three required field\n2. Username should not be empty\n3. "@" key is obligatory to enter\n4. Unique password is chosen for new registration\n5. Redirection to Sign in page
